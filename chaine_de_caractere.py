@@ -1,2 +1,11 @@
-print("hello world")
-print("hello world")
+print("""helloworld!""");
+print("hello \n world!");
+print("hello world! \u2764");
+print("hello world! \a kev");
+print("hello world! \b kev");
+print("hello world! \f kev");
+print("hello world! \n kev");
+print("hello world! \r kev");
+print("hello world! \t kev");
+print("hello world! \v kev");
+print(r'C:\Users\cours\python');
